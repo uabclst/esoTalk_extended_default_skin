@@ -5,4 +5,11 @@ It also adds coloring of the channels.
 
 See the file resources/code_addition.php for technical information.
 
+How to install
+
+1. Upload to your forums directory addons/skins
+2. Rename skin folder to ExtendedDefault
+
+
+
 ![alt tag](preview.jpg)
